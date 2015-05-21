@@ -2,7 +2,7 @@ zcf520.py
 =========
 一个解密游戏的Demo
 将拼音首字母与姓名进行匹配 
-zcf函数如果匹配成功则返回姓名列表的下标,否则返回None
+zcf函数如果匹配成功则返回匹配到的姓名列表,否则返回None
 - 利用pinyin库：https://github.com/cleverdeng/pinyin.py
 
 Example:
